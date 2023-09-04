@@ -1,0 +1,2 @@
+# Hello World
+This is a readme in the repository named `cmsc100-exercise-1`.
